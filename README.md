@@ -1,3 +1,4 @@
 # Analytical Information Systems (2019)
 
-Course material
+Julius-Maximilians-Universität Würzburg
+Course number: 10606400
