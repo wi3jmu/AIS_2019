@@ -7,3 +7,4 @@ dependencies:
   - matplotlib
   - pandas
   - rise
+  - jupyter_contrib_nbextensions
