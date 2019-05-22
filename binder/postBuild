@@ -1,1 +1,1 @@
-jupyter nbextension enable toc
+jupyter nbextension enable toc2/main
