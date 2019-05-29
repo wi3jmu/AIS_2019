@@ -1,5 +1,7 @@
 install.packages('tidyverse')
 install.packages('moments')
+install.packages("ggrepel")
+install.packages('psych')
 install.packages('RSQLite')
 install.packages('babynames')
 install.packages('nycflights13')
